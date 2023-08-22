@@ -1,0 +1,5 @@
+Hello world!
+This is a test repo I'm using to work through the Foundations course on The Odin Project.
+As of today (2023-08-22), I know some Python and SQL, and plan to upload some .py files in a separate repo.
+I'm mostly picking up webdev as a hobby but if this turns into a field I want to turn into a career, I won't complain.
+Have a good day!
